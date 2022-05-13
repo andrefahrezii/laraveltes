@@ -1,0 +1,10 @@
+User
+username : user@gmail.com
+password : 123
+
+username : mahasiswa@gmail.com
+password : Mahasiswa
+
+Untuk Login silakan login dengan Url ini http://127.0.0.1:8000/admin/login
+
+sudah saya buatkan api untuk lihat saya tapi http://127.0.0.1:8000/api/mahasiswa
